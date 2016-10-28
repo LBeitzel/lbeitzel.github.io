@@ -1,10 +1,9 @@
 p {
-  color: #ff8b8b;
   font-size: 20px;
   text-align: center;
 }
-#first-paragraph {
+#different {
+  color: #ff8b8b;
   font-family: helvetica, sans-serif;
-  font-size: 16px;
-  color: blue;
+  font-size: 24px;
 }
