@@ -9,6 +9,18 @@ html, body{
 	background:	#fff;
 	font-family: 'Open Sans', sans-serif;
 }
+h4 {
+  font-size: 1.3em;
+  font-weight:600;
+	color:#38708F;
+	margin:0;
+	text-align:center;
+}
+.element {
+  float: left;
+  clear: left;
+  border: 1px solid black;
+}
 p,body{
 	margin:0;
 }
