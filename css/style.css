@@ -15,11 +15,16 @@ h4 {
 	color:#38708F;
 	margin:0;
 	text-align:center;
+  text-decoration: underline;
 }
 .element {
   float: left;
   clear: left;
-  border: 1px solid black;
+  border: 2px solid #a8a8a8;
+  margin: 20px;
+}
+hr {
+  color: black;
 }
 p,body{
 	margin:0;
@@ -260,7 +265,6 @@ ul.wmuSliderPagination {
 /*-- banner-bottom --*/
 .banner-bottom-left2l img {
 	padding: .3em;
-	border: 1px dotted #999;
 }
 .banner-bottom-left,.banner-bottom-right{
 	padding:0;
@@ -283,7 +287,6 @@ ul.wmuSliderPagination {
 }
 .banner-bottom-left1-gridl img{
 	padding:.3em;
-	border:1px dotted #B9B9B9;
 }
 .banner-bottom-left1-gridr{
     padding-right: 0;
@@ -347,7 +350,6 @@ ul.wmuSliderPagination {
 .news h3,.banner-bottom-left2 h3{
 	color:#f65a5b;
 	padding-bottom:0.5em;
-	border-bottom:1px dotted #f65a5b;
 }
 .news p{
 	color:#999;
@@ -383,7 +385,6 @@ ul.wmuSliderPagination {
     font-size: 1.4em;
     margin: 0;
     padding-bottom: 1em;
-    border-bottom: 1px dotted #989898;
     font-weight: 200;
     margin: 0 0 1.5em;
 	}
@@ -932,7 +933,6 @@ h2.typoh2{
     width: 15%;
     padding: 1em 0;
     text-align: center;
-    border: 1px dotted #999;
 	transition:.5s ease-in;
 	-webkit-transition:.5s ease-in;
 	-moz-transition:.5s ease-in;
@@ -949,7 +949,6 @@ h2.typoh2{
 }
 .services-grid:hover .services-grid-left{
 	background:#38708F;
-	border: 1px dotted #999;
 }
 .services-grid:hover .services-grid-left span{
 	color:#fff;
@@ -1003,7 +1002,6 @@ h2.typoh2{
 }
 .services-list-right-grid1 img {
     padding: .3em;
-    border: 1px dotted #999;
 }
 .services-list-right-grid1 p{
 	margin:0;
@@ -1021,7 +1019,6 @@ h2.typoh2{
 }
 .latest-news-grid img{
 	padding:.3em;
-	border:1px dotted #999;
 }
 .latest-news-grid ul{
 	padding:1.5em 0 0;
